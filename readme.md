@@ -3,4 +3,4 @@ NLP learning
 
 Blabla
 
-33
+8.5 throug september 
