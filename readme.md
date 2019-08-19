@@ -1,4 +1,4 @@
-NLP learning
+ NLP learning
 
 
 Blabla
@@ -15,3 +15,4 @@ Nothing..
 
 Still nothing 8.14
 back to belgium 8.19
+Back to bel
